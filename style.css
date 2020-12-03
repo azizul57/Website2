@@ -96,3 +96,59 @@ a{
   text-decoration: none;
   color: white;
 }
+@media only screen and (max-width: 500px) {
+  body{
+    height: 700px;
+  }
+  .manu li{
+    margin-top: -20px;
+  }
+  ul{
+      margin-top: 30px;
+  }
+  .menu li{
+    letter-spacing: 3px;
+    padding:0px 0px;
+    font-size: 8px;
+  }
+  .middle{
+    position: relative;
+    width: 100%;
+    font-size:200%;
+  }
+  .middle h1, h2{
+    width: 60%;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    margin-top: 50%;
+    position: absolute;
+    transition: 1.5s;
+    margin-left: 15%;
+  }
+  .contact{
+    width: 100%;
+    margin: auto;
+  }
+  footer li{
+    margin-left: 4px;
+
+  }
+  footer a{
+    border-right: 2px solid white;
+  }
+  footer{
+    position: absolute;
+    bottom: 50px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-size: 10px;
+    line-height: 0px;
+    letter-spacing: 2.5px;
+  }
+
+}
+
