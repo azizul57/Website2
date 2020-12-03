@@ -114,15 +114,14 @@ a{
   .middle{
     position: relative;
     width: 100%;
-    font-size:100%;
+    font-size:100px;
   }
   .middle h1, h2{
     width: 60%;
-    height: 200px;
     margin: auto;
     text-align: center;
     color: white;
-    margin-top: 50%;
+    margin-top: 10%;
     position: absolute;
     transition: 1.5s;
     margin-left: 15%;
