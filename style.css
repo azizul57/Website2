@@ -114,7 +114,7 @@ a{
   .middle{
     position: relative;
     width: 100%;
-    font-size:200%;
+    font-size:100%;
   }
   .middle h1, h2{
     width: 60%;
