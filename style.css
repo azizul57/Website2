@@ -98,7 +98,7 @@ a{
 }
 @media only screen and (max-width: 500px) {
   body{
-    height: 700px;
+    height: 600px;
   }
   .manu li{
     margin-top: -20px;
@@ -114,7 +114,6 @@ a{
   .middle{
     position: relative;
     width: 100%;
-    font-size:100px;
   }
   .middle h1, h2{
     width: 60%;
@@ -125,6 +124,7 @@ a{
     position: absolute;
     transition: 1.5s;
     margin-left: 15%;
+    font-size:100px;
   }
   .contact{
     width: 100%;
